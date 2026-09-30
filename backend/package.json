@@ -27,6 +27,7 @@
     "cors": "^2.8.6",
     "dotenv": "^18.0.4",
     "express": "^5.2.1",
+    "langchain": "^1.5.14",
     "yahoo-finance2": "^4.0.2",
     "zod": "^4.6.5"
   }
